@@ -9,3 +9,5 @@ To run:
 The rest API will be available at:
 
     http://localhost:8080
+
+OData: https://www.odata.org/documentation/odata-version-3-0/url-conventions/
